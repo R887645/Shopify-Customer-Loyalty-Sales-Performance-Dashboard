@@ -57,11 +57,11 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - Ensured consistent product and region naming  
 
-- Converted numeric columns to correct data types  
-
-- Built a Calendar Table (Year, Month, Day of Week)  
+- Converted numeric columns to correct data types 
 
 - Separated Fact Table (Sales Transactions) from Dimension Tables (Customer, Product, Payment Gateway, Date)  
+
+- Extracted from the Date Table (Year, Month, Day of Week, Day Num)  
 
 ## Data Modeling (Excel)  
 
@@ -77,7 +77,7 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - Average Order Value (AOV) = Net Sales ÷ Total Orders  
 
-- Lifetime Value (LTV) = Net Sales ÷ Total Customers  
+- Lifetime Value (LTV) = AOV* Purchase * Purchase Frequency * Lifespan
 
 - Purchase Frequency = Total Orders ÷ Total Customers  
 
@@ -119,7 +119,7 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 ## Recommendations  
 
-Focus marketing and promotions on high-performing products such as Walking Shoes and Climbing Shoes  
+- Focus marketing and promotions on high-performing products such as Walking Shoes and Climbing Shoes  
 
 - Investigate underperforming products such as Water Shoes and Flip-Flops for repositioning or discontinuation  
 
@@ -180,4 +180,6 @@ The dashboards provide Shopify stakeholders with a powerful tool to monitor perf
 - No marketing spend, customer demographics, or competitor data included  
 
 - External factors such as seasonality, economic conditions, and supply chain disruptions were not captured  
+
+##About Me
 I am Abdul‑Azeez Rofiah Kehinde, an E‑commerce Data Analyst specializing in sales, customer behavior, and marketing analytics. I help businesses transform raw transactional data into actionable insights that drive revenue growth, customer retention, and strategic decision‑making. My expertise lies in using tools like Excel, Power Query, SQL, Powe BI to clean, model, and visualize data, delivering dashboards that tell a clear business story and empower stakeholders to act with confidence. Let's connect
