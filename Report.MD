@@ -103,7 +103,7 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - What is the repeat vs single-order customer split?  
 
-= How are total sales and order volumes trending across the week?  
+- How are total sales and order volumes trending across the week?  
 
 - Which products generate the highest and lowest revenue?  
 
@@ -193,8 +193,9 @@ This Shopify analysis transformed a one-week transactional dataset into meaningf
 
 The dashboards provide Shopify stakeholders with a powerful tool to monitor performance and plan strategic improvements.  
 
-[Read the Article on Medium](https://medium.com/@kehindeazeez49/unlocking-revenue-growth-and-customer-loyalty-a-shopify-sales-analysis-ed541282cb5e)
-[Explore My Project Slides](https://drive.google.com/file/d/1tIfk7L3FQagABKqXjkmFRUym6HggwWbL/view?usp=sharing)
+**[Read the Article on Medium](https://medium.com/@kehindeazeez49/unlocking-revenue-growth-and-customer-loyalty-a-shopify-sales-analysis-ed541282cb5e)**
+
+**[Explore My Project Slides](https://drive.google.com/file/d/1tIfk7L3FQagABKqXjkmFRUym6HggwWbL/view?usp=sharing)**
 
 ## Limitations  
 
