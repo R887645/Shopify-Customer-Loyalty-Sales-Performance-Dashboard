@@ -26,9 +26,11 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - Geography: United States only  
 
+
 ## Key Columns in the Dataset  
 
-- Order Date  
+- Order Number
+-Invoice Date
 - Product Type (Shoes, Jackets, Accessories, etc.)  
 - Quantity Ordered  
 - Subtotal, Tax, Total Price (USD)  
@@ -36,6 +38,8 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 - Customer ID (to track repeat behavior)  
 - State (Billing Address Province)  
 - City  
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/shopify_raw%20data.png?raw=true)
 
 ## Tools Used  
 
@@ -48,6 +52,9 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 ## Data Cleaning & Preparation (Excel / Power Query)  
 
 - Imported Shopify CSV data via Get Data → From Text/CSV  
+
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_Data%20Cleaning%20and%20prep.png?raw=true)
 
 - Removed duplicate records  
 
@@ -62,10 +69,15 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 - Separated Fact Table (Sales Transactions) from Dimension Tables (Customer, Product, Payment Gateway, Date)  
 
 - Extracted from the Date Table (Year, Month, Day of Week, Day Num)  
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_Before_Clening.png?raw=true)
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_Data%20Cleaning.png?raw=true)
 
 ## Data Modeling (Excel)  
 
 - Established relationships between Fact and Dimension tables  
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_Data%20Modelling.png?raw=true)
 
 - Created calculated measures in Excel using DAX-like formulas:  
 
@@ -83,7 +95,9 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - Repeat Customers = Total Customers – Single Order Customers  
 
-- epeat Rate = Repeat Customers ÷ Total Customers  
+- Repeat Rate = Repeat Customers ÷ Total Customers  
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_DAX.png?raw=true)
 
 ## Key Questions & Analysis  
 
@@ -99,7 +113,9 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - Which regions and cities are top performers?  
 
-- Who are the top-performing customers?  
+- Who are the top-performing customers? 
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/shopify_Pivot%20Table.png?raw=true)
 
 ## Key Insights  
 
@@ -147,6 +163,8 @@ The Excel project contains two main dashboards
 
 - Map visualization of sales by city/province  
 
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_Customer&%20Regional%20Analysis.png?raw=true)
+
 ## What Drives Revenue Growth?  
 
 - Net sales, orders, AOV, and quantity trends  
@@ -157,7 +175,9 @@ The Excel project contains two main dashboards
 
 - Daily revenue trend analysis  
 
-- Quantity vs ASP scatter analysis  
+- Quantity vs ASP Bar analysis  
+
+![Image Description](https://github.com/R887645/Shopify-Customer-Loyalty-Sales-Performance-Dashboard/blob/main/Shopify_Sales_&%20Transaction_Analysis.png?raw=true)
 
 ## Conclusion  
 
