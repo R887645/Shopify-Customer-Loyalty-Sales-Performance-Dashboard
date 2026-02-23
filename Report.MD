@@ -193,6 +193,9 @@ This Shopify analysis transformed a one-week transactional dataset into meaningf
 
 The dashboards provide Shopify stakeholders with a powerful tool to monitor performance and plan strategic improvements.  
 
+[Read the Article on Medium](https://medium.com/@kehindeazeez49/unlocking-revenue-growth-and-customer-loyalty-a-shopify-sales-analysis-ed541282cb5e)
+[Explore My Project Slides](https://drive.google.com/file/d/1tIfk7L3FQagABKqXjkmFRUym6HggwWbL/view?usp=sharing)
+
 ## Limitations  
 
 - Dataset covers only one week (March 18–24, 2025), so insights represent a snapshot rather than long-term trends  
