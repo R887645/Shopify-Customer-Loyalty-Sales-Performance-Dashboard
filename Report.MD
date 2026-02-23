@@ -201,5 +201,6 @@ The dashboards provide Shopify stakeholders with a powerful tool to monitor perf
 
 - External factors such as seasonality, economic conditions, and supply chain disruptions were not captured  
 
-##About Me
+
+## About Me
 I am Abdul‑Azeez Rofiah Kehinde, an E‑commerce Data Analyst specializing in sales, customer behavior, and marketing analytics. I help businesses transform raw transactional data into actionable insights that drive revenue growth, customer retention, and strategic decision‑making. My expertise lies in using tools like Excel, Power Query, SQL, Powe BI to clean, model, and visualize data, delivering dashboards that tell a clear business story and empower stakeholders to act with confidence. Let's connect
