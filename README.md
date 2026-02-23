@@ -1,2 +1,2 @@
-# Shopify-Customer-Loyalty-Sales-Performance-Dashboard
-The dashboard provides Shopify stakeholders with a clear view of what drives revenue growth, where customer loyalty stands, and which regions/products need attention for a month (March). It supports data-driven decision-making by highlighting opportunities to optimize marketing, inventory, and retention strategies.
+# Shopify-Customer-Loyalty-Sales-Performance-Analysis
+The goal as an e-commerce data analyst is to analyze a one-week Shopify U.S. sales dataset (7,431 transactions) to uncover revenue drivers and evaluate customer loyalty. Using Excel data modeling and KPIs such as Net Sales, AOV, LTV, and Repeat Rate, the project identifies top products, payment channels, regions, and high-value customers to support the growth strategy.
