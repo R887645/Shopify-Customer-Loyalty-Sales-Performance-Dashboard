@@ -131,7 +131,7 @@ How can Shopify optimize sales performance while strengthening customer loyalty 
 
 - Repeat rate stood at 46%, showing moderate loyalty but room for improvement  
 
-- Top 5 customers contributed over $20K, highlighting customer concentration risk  
+- Top 5 customers contributed over $20K; they represent less than 1% of total sales, highlighting a healthy revenue distribution.
 
 ## Recommendations  
 
